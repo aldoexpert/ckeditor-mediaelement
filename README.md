@@ -6,5 +6,3 @@ This plugin is very helpful if you display audio / video using www.mediaelementj
 
 ## Attribution
 Widget icon by Aldo Expert
-
-###ok
